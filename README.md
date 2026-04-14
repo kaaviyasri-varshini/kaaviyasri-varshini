@@ -7,7 +7,6 @@
 
 ---
 
-<!-- Connect with me -->
 <div align="center">
   <a href="https://github.com/kaaviyasri-varshini" target="_blank">
     <img src="https://img.shields.io/badge/github-%232E3440.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github" style="margin-bottom: 5px;" />
@@ -25,37 +24,36 @@
     <img src="https://img.shields.io/badge/Substack-%232E3440.svg?&style=for-the-badge&logo=substack&logoColor=white" alt="substack" style="margin-bottom: 5px;" />
   </a>
   <br/><br/>
-  <img src="https://komarev.com/ghpvc/?username=kaaviyasri-varshini&style=for-the-badge&color=6272a4&label=PROFILE+VIEWS" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=kaaviyasri-varshini&style=for-the-badge&color=9b72cf&label=PROFILE+VIEWS" alt="profile views" />
 </div>
 
 ---
 
-<!-- GitHub Stats -->
 <table align="center">
   <tr>
     <td colspan="2">
-      <img width="100%" src="https://github-profile-trophy.vercel.app/?username=kaaviyasri-varshini&hide_border=true&count_private=true&column=-1&theme=dracula&no-frame=true" alt="trophies" />
+      <img width="100%" src="https://github-profile-trophy.vercel.app/?username=kaaviyasri-varshini&hide_border=true&count_private=true&column=-1&theme=tokyonight&no-frame=true" alt="trophies" />
     </td>
   </tr>
   <tr>
     <td colspan="2">
-      <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=kaaviyasri-varshini&bg_color=282a36&hide_border=true&point=false&line=ff79c6&radius=8&area=true&area_color=ff79c6&title_color=ffffff&color=ffffff" alt="activity graph" />
+      <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=kaaviyasri-varshini&bg_color=f5f0ff&hide_border=true&point=false&line=9b72cf&radius=8&area=true&area_color=9b72cf&title_color=5c3a8c&color=5c3a8c" alt="activity graph" />
     </td>
   </tr>
   <tr>
     <td>
-      <img src="https://streak-stats.demolab.com?user=kaaviyasri-varshini&theme=dracula&hide_border=true" alt="streak stats" />
+      <img src="https://streak-stats.demolab.com?user=kaaviyasri-varshini&theme=tokyonight&hide_border=true" alt="streak stats" />
     </td>
     <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kaaviyasri-varshini&theme=dracula" alt="profile details" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kaaviyasri-varshini&theme=tokyonight" alt="profile details" />
     </td>
   </tr>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=kaaviyasri-varshini&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="github stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=kaaviyasri-varshini&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="github stats" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaaviyasri-varshini&layout=compact&theme=dracula&hide_border=true&count_private=true" alt="top languages" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaaviyasri-varshini&layout=compact&theme=tokyonight&hide_border=true&count_private=true" alt="top languages" />
     </td>
   </tr>
 </table>
