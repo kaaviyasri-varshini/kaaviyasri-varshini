@@ -37,7 +37,7 @@
   </tr>
   <tr>
     <td colspan="2">
-      <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=kaaviyasri-varshini&bg_color=f5f0ff&hide_border=true&point=false&line=9b72cf&radius=8&area=true&area_color=9b72cf&title_color=5c3a8c&color=5c3a8c" alt="activity graph" />
+      <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=kaaviyasri-varshini&bg_color=1a0a2e&hide_border=true&point=false&line=9b72cf&radius=8&area=true&area_color=9b72cf&title_color=5c3a8c&color=5c3a8c" alt="activity graph" />
     </td>
   </tr>
   <tr>
