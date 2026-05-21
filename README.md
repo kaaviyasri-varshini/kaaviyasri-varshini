@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kaaviyasri Varshini</h1>
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=26&duration=3000&pause=500&color=FDFEFE&background=2A2E3425&center=true&vCenter=true&lines=Enthusiastic+learner)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=26&duration=3000&pause=500&color=FDFEFE&background=2A2E3425&center=true&vCenter=true&lines=Welcome+To+My+GitHub+Page)](https://git.io/typing-svg)
 
 </div>
 
