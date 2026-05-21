@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kaaviyasri Varshini</h1>
 <div align="center">
 
-  <img src="https://api.dicebear.com/9.x/avataaars/svg?seed=kaaviyasri&backgroundColor=1a1b27&top=longHairStraight&hairColor=2c1b18&clothesType=blazerShirt" width="150" />
+  <img src="https://api.dicebear.com/9.x/micah/svg?seed=kaaviyasri&backgroundColor=1a1b27" width="150" />
 <div align="center">
 
 
