@@ -20,15 +20,6 @@
 
 ---
 
-### 🚀 Featured Projects
-
-<!-- Replace with your 2-4 strongest repos -->
-- **[Project Name](repo-link)** — one-line description of what it does and why it's interesting.
-- **[Project Name](repo-link)** — same format, focus on the agentic/GenAI angle.
-- **[Project Name](repo-link)** — same format.
-
----
-
 <div align="center">
   <a href="https://github.com/kaaviyasri-varshini" target="_blank">
     <img src="https://img.shields.io/badge/github-%232E3440.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github" style="margin-bottom: 5px;" />
@@ -70,12 +61,4 @@
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kaaviyasri-varshini&theme=tokyonight" alt="profile details" />
     </td>
   </tr>
-</table>
-      <img src="https://streak-stats.demolab.com?user=kaaviyasri-varshini&theme=tokyonight&hide_border=true" alt="streak stats" />
-    </td>
-    <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kaaviyasri-varshini&theme=tokyonight" alt="profile details" />
-    </td>
-  </tr>
-
 </table>
