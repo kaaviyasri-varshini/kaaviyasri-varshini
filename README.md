@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=FDFEFE&background=2A2E3425&center=true&vCenter=true&lines=Gen+AI+Developer+%7C+Building+Agentic+AI+Systems;Python+%7C+FastAPI+%7C+LangChain+%7C+MongoDB+%7C+MCP;Writing+Technical+Content+on+GenAI)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=FDFEFE&background=2A2E3425&center=true&vCenter=true&width=600&height=50&lines=Gen+AI+Developer+%7C+Building+Agentic+AI+Systems;Python+%7C+FastAPI+%7C+LangChain+%7C+MongoDB+%7C+MCP;Writing+Technical+Content+on+GenAI)](https://git.io/typing-svg)
 
 </div>
 
