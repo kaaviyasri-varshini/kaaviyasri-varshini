@@ -1,13 +1,31 @@
 <h1 align="center">Hi 👋, I'm Kaaviyasri Varshini</h1>
+
 <div align="center">
 
-  
-<div align="center">
-
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=26&duration=3000&pause=500&color=FDFEFE&background=2A2E3425&center=true&vCenter=true&lines=Welcome+To+My+GitHub+Page)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=FDFEFE&background=2A2E3425&center=true&vCenter=true&lines=Gen+AI+Developer+%7C+Building+Agentic+AI+Systems;Python+%7C+FastAPI+%7C+LangChain+%7C+MongoDB+%7C+MCP;Writing+Technical+Content+on+GenAI)](https://git.io/typing-svg)
 
 </div>
+
+---
+
+### 🛠️ Tech Stack
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MCP-2E3440?style=for-the-badge" />
+</div>
+
+---
+
+### 🚀 Featured Projects
+
+<!-- Replace with your 2-4 strongest repos -->
+- **[Project Name](repo-link)** — one-line description of what it does and why it's interesting.
+- **[Project Name](repo-link)** — same format, focus on the agentic/GenAI angle.
+- **[Project Name](repo-link)** — same format.
 
 ---
 
@@ -46,6 +64,13 @@
   </tr>
   <tr>
     <td>
+      <img src="https://streak-stats.demolab.com?user=kaaviyasri-varshini&theme=tokyonight&hide_border=true" alt="streak stats" />
+    </td>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kaaviyasri-varshini&theme=tokyonight" alt="profile details" />
+    </td>
+  </tr>
+</table>
       <img src="https://streak-stats.demolab.com?user=kaaviyasri-varshini&theme=tokyonight&hide_border=true" alt="streak stats" />
     </td>
     <td>
